@@ -20,7 +20,7 @@
   - [其他机场（按月付价格排列）](#others)
 - [性价比最高推荐](#best-value)
   - [1. 红杏云](#hongxingyun)
-  - [2. 快雷GO](#kuaileigo)
+  - 
 - [其他性价比机场（按月付价格排列）](#others)
   - [1. 飞鸟云](#feiniaoyun)
   - [2.  Mitce](#mitce)
@@ -39,14 +39,14 @@
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
 | 🥇 | [红杏云](https://hongxingyun.pro/web/#/login?code=vGVhcYgf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=vGVhcYgf) |
-| 🥇 | [feiniao](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
+| 🥇 | [feiniao](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=tHZfNKbN) |
 
 ### 📋 其他机场（按月付价格排列）
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 | [备用地址]（(https://www.zhaozhishi.net/jichang/feiniaoyun)) |
-| 2 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT | [备用地址](https://mitce.net/aff.php?aff=18191) |
+| 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 | [备用地址]（(https://www.zhaozhishi.net/jichang/feiniaoyun)) |
+| 2 | [Mitce](https://mitce.net/aff.php?aff=40228) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT | [备用地址](https://mitce.net/aff.php?aff=40228) |
 
 
 <span id="quickstart"></span>
@@ -94,10 +94,6 @@
 **使用体验**：
 一分钱一分货，客服响应也很及时。近期已经恢复原生家宽节点。
 
-**套餐一览**：
-- 轻量-包月 200G：¥20/月
-- 冲浪-包月 500G：¥40/月
-- 高级-不限时 3000G：¥388/一次性
 
 ---
 
@@ -109,7 +105,7 @@
 
 <span id="feiniaoyun"></span>
 ### 1. 飞鸟云
-**官网入口**：[飞鸟云官网](https://feiniaoyun.xyz/#/register?code=t8yhuYXU)，[备用地址]()   
+**官网入口**：[飞鸟云官网](https://feiniaoyun.xyz/#/register?code=tHZfNKbN)，[备用地址]()   
 **优惠码**：无
 
 **机场信息**
@@ -119,7 +115,7 @@
 - 协议：Hysteria2 + Trojan + VLESS
 - 设备限制：不限制
 - 付款方式：支付宝 / 微信
-- TG 频道：[点击加入](https://t.me/feiniaoyunjichang)
+- ⭐特别注意，google邮箱注册验证码在spam垃圾箱中，qq和163邮箱也可能在垃圾箱。
 - 一键客户端：不支持
 
 **优势**：
@@ -181,7 +177,7 @@
 ## 总结与建议
 
 在选择**性价比机场**时，不要仅仅盯着价格看。**一元机场**和**便宜机场**虽然诱人，但往往在晚高峰速度或节点稳定性上有所妥协。建议采用"主备结合"的策略：
-1. 购买一个带有专线的高性价比机场作为主力（如**红杏云**、**快雷GO**），稳定性和解锁能力都有保障。
+1. 购买一个带有专线的高性价比机场作为主力（如**红杏云**、），稳定性和解锁能力都有保障。
 2. 搭配一个极低价格的年付机场（如飞鸟云、杜卡迪）或不限时流量包（如悦通）作为备用。
 
 这样既能保证日常使用的流畅度，又能在突发情况下永不断网，实现真正的低价高性价比体验。
