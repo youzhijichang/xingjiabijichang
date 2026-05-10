@@ -48,7 +48,7 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [红杏云](https://hongxingyun.pro/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=B6PcC2tf) |
+| 🥇 | [红杏云](https://hongxingyun.pro/web/#/login?code=vGVhcYgf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=vGVhcYgf) |
 | 🥇 | [feiniao](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
 
 ### 📋 其他机场（按月付价格排列）
