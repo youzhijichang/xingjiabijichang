@@ -51,7 +51,7 @@
 |---|---|---:|---|---|---|
 | 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://www.zhaozhishi.net/jichang/feiniaoyun) |
 | 2 | [Mitce](https://mitce.net/aff.php?aff=40228) | 约 ¥4.30 / 月，折合 $0.60 / 月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https://mitce.net/aff.php?aff=40228) |
-| 3 | [秋林云](https://mitce.net/aff.php?aff=40228](https://www.qiulinyun.online/register?code=P9a5mp97) | 约 ¥12.90 / 月，折合 $0.60 / 月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https:/www.qiulinyun.online/register?code=m8UfbWGi) |
+| 3 | [秋林云]((https://www.qiulinyun.online/register?code=P9a5mp97) | 约 ¥12.90 / 月，折合 $0.60 / 月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https:/www.qiulinyun.online/register?code=m8UfbWGi) |
 
 ---
 
