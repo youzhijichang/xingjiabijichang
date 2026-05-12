@@ -43,13 +43,13 @@
 | 排名 | 机场名称 | 最低价格 | 线路特色 | AI 与流媒体支持 | 官网与备用地址 |
 |---|---|---:|---|---|---|
 | 1 | [红杏云](https://hongxingyun.pro/web/#/login?code=vGVhcYgf) | ¥20.00 / 月 | IEPL 专线、原生住宅节点 | 支持主流平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=vGVhcYgf) |
-| 2 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://www.kuailei.vip/register?code=tHZfNKbN) |
+| 2 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) |
 
 ### 其他低价机场
 
 | 排名 | 机场名称 | 最低价格 | 线路特色 | AI 与流媒体支持 | 官网与备用地址 |
 |---|---|---:|---|---|---|
-| 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://www.zhaozhishi.net/jichang/feiniaoyun) |
+| 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) |
 | 2 | [Mitce](https://mitce.net/aff.php?aff=40228) | 约 ¥4.30 / 月，折合 $0.60 / 月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https://mitce.net/aff.php?aff=40228) |
 | 3 | [秋林云](https://www.qiulinyun.online/register?code=P9a5mp97) | 约 ¥12.90 / 月，折合 $0.60 / 月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https:/www.qiulinyun.online/register?code=m8UfbWGi) |
 
@@ -89,8 +89,8 @@
 
 ### 1. 红杏云
 
-**官网入口**：[红杏云官网](https://hongxingyun.pro/web/#/login?code=B6PcC2tf)  
-**备用地址**：[红杏云备用地址](https://hongxingyun1.com/web/#/login?code=vGVhcYgf)  
+**官网入口**：[红杏云官网](https://hongxingyun.pro/web/#/login?code=vGVhcYgf)  
+**备用地址**：[红杏云备用地址](https://hongxingyun.pro/web/#/login?code=vGVhcYgf)  
 **优惠码**：`ABING888`，全场 8 折。
 
 | 项目 | 信息 |
@@ -125,7 +125,7 @@
 ### 1. 飞鸟云
 
 **官网入口**：[飞鸟云官网](https://feiniaoyun.xyz/#/register?code=tHZfNKbN)  
-**备用地址**：[飞鸟云备用地址](https://www.kuailei.vip/register?code=tHZfNKbN)  
+**备用地址**：[飞鸟云备用地址](https://feiniaoyun.xyz/#/register?code=tHZfNKbN)  
 **优惠码**：暂无。
 
 | 项目 | 信息 |
@@ -161,7 +161,7 @@
 
 ### 2. Mitce
 
-**官网入口**：[Mitce 官网](https://mitce.net/aff.php?aff=18191)  
+**官网入口**：[Mitce 官网]( https://mitce.net/aff.php?aff=40228)  
 **备用地址**：[Mitce 备用地址](https://mitce.net/aff.php?aff=40228)  
 **优惠码**：`SAKURA2026`，日本优化线路套餐锁定终身 8 折。
 
