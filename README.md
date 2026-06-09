@@ -2,15 +2,15 @@
 
 # 2026 低价机场推荐：高性价比节点服务精选指南
 
-本文面向正在寻找**性价比机场**、**便宜机场**与**低价节点服务**的用户，整理了若干价格相对亲民、定位清晰的第三方节点服务商。文档重点围绕套餐价格、线路特点、解锁能力、适用人群与使用体验进行归纳，便于新手用户和轻度用户快速对比选择。
+本文面向正在寻找**性价比机场**、**便宜机场**与**低价节点服务**的用户，整理了几个价格相对亲民、定位清晰的第三方节点服务商——俗称机场。文档重点围绕套餐价格、线路特点、解锁能力、适用人群与使用体验进行归纳，便于新手用户和轻度用户快速对比选择。
 
 需要特别说明的是，低价服务往往意味着运营成本、线路质量、客服响应或晚高峰稳定性存在一定取舍。因此，选择服务时不宜只关注价格，更应结合自身使用场景、设备数量、流量需求以及对稳定性的要求进行综合判断。
 
 ---
 
-## 近期公告
+## 2026年6月更新消息
 
-> 如果主站地址暂时无法访问，可优先尝试备用地址。市面上一些价格极低、用户过多且维护不足的服务可能存在速度慢、节点不可用或体验不稳定等问题，建议在购买前认真查看套餐说明、服务条款与近期用户反馈。本文仅整理公开信息与个人体验，不构成购买建议。
+> 如果主站地址暂时无法访问，可优先尝试备用地址。市面上一些价格极低、用户过多且维护不足的服务可能存在速度慢、节点不可用或体验不稳定等问题，建议在购买前认真查看套餐说明、服务条款与近期用户反馈。本篇对机场的评价综合了网友意见与个人体验，虽然性价比总体可以，但不能保证绝对准确。
 
 ---
 
@@ -42,14 +42,14 @@
 
 | 排名 | 机场名称 | 最低价格 | 线路特色 | AI 与流媒体支持 | 官网与备用地址 |
 |---|---|---:|---|---|---|
-| 1 | [红杏云](https://hongxingyun.pro/web/#/login?code=vGVhcYgf) | ¥20.00 / 月 | IEPL 专线、原生住宅节点 | 支持主流平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=vGVhcYgf) |
+| 1 | [红杏云](https://hongxing.one/web/#/login?code=vGVhcYgf) | ¥20.00 / 月 | IEPL 专线、原生住宅节点 | 支持主流平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=vGVhcYgf) |
 | 2 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) |
 
 ### 其他低价机场
 
 | 排名 | 机场名称 | 最低价格 | 线路特色 | AI 与流媒体支持 | 官网与备用地址 |
 |---|---|---:|---|---|---|
-| 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) |
+| 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://fn6.757866.xyz/#/register?code=tHZfNKbN) |
 | 2 | [Mitce](https://mitce.net/aff.php?aff=40228) | 约 ¥4.30 / 月，折合 $0.60 / 月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https://mitce.net/aff.php?aff=40228) |
 | 3 | [秋林云](https://www.qiulinyun.online/register?code=P9a5mp97) | 约 ¥12.90 / 月，折合 $0.60 / 月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https:/www.qiulinyun.online/register?code=m8UfbWGi) |
 
@@ -89,7 +89,7 @@
 
 ### 1. 红杏云
 
-**官网入口**：[红杏云官网](https://hongxingyun.pro/web/#/login?code=vGVhcYgf)  
+**官网入口**：[红杏云官网](https://hongxing.one/web/#/login?code=vGVhcYgf)  
 **备用地址**：[红杏云备用地址](https://hongxingyun.pro/web/#/login?code=vGVhcYgf)  
 **优惠码**：`ABING888`，全场 8 折。
 
@@ -101,7 +101,6 @@
 | 支持协议 | VLESS、Hysteria2、AnyTLS |
 | 设备限制 | 不限制 |
 | 付款方式 | 支付宝、微信、USDT |
-| Telegram 频道 | [点击加入](https://t.me/Hongxingyun_bot) |
 | 一键客户端 | Windows、macOS、Android、iOS、软路由 |
 
 红杏云的主要优势在于线路质量相对较高，采用 IEPL 专线与移动骨干接入，适合对晚高峰稳定性、流媒体解锁和 AI 服务访问有较高要求的用户。相比极低价直连服务，红杏云的起步价格更高，但整体定位更偏向主力使用。
@@ -125,7 +124,7 @@
 ### 1. 飞鸟云
 
 **官网入口**：[飞鸟云官网](https://feiniaoyun.xyz/#/register?code=tHZfNKbN)  
-**备用地址**：[飞鸟云备用地址](https://feiniaoyun.xyz/#/register?code=tHZfNKbN)  
+**备用地址**：[飞鸟云备用地址](https://fn6.757866.xyz/#/register?code=tHZfNKbN)  
 **优惠码**：暂无。
 
 | 项目 | 信息 |
