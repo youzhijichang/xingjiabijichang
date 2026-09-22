@@ -54,7 +54,7 @@
 | 排名 | 机场名称 | 最低价格 | 线路特色 | AI 与流媒体支持 | 官网与备用地址 |
 |---|---|---:|---|---|---|
 | 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=tHZfNKbN) | ¥12 / 年，折合约 ¥1.00 / 月 | Hysteria2 直连 | 支持常见平台解锁 | [备用地址](https://fn6.757866.xyz/#/register?code=tHZfNKbN) |
-| 2 | [Mitce](https://mitce.net/aff.php?aff=40228) | $0.60/月,约¥4.30/月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https://mitce.net/aff.php?aff=40228) |
+| 2 | [Mitce](https://mitce.io/aff.php?aff=40228) | $0.60/月,约¥4.30/月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https://mitce.net/aff.php?aff=40228) |
 | 3 | [秋林云](https://www.qiulinyun.online/register?code=P9a5mp97) | 约 ¥12.90 / 月,流量100g/月 | 住宅 IP、Hysteria2 | 支持 ChatGPT 等服务 | [备用地址](https:/www.qiulinyun.online/register?code=m8UfbWGi) |
 
 ---
@@ -164,8 +164,8 @@
 
 ### 2. Mitce
 
-**官网入口**：[Mitce 官网]( https://mitce.net/aff.php?aff=40228)  
-**备用地址**：[Mitce 备用地址](https://mitce.net/aff.php?aff=40228)  
+**官网入口**：[Mitce 官网]( https://mitce.io/aff.php?aff=40228)  
+**备用地址**：[Mitce 备用地址](https://mitce.io/aff.php?aff=40228)  
 **优惠码**：`SAKURA2026`，日本优化线路套餐锁定终身 8 折。
 
 | 项目 | 信息 |
@@ -201,7 +201,7 @@ Mitce 的住宅 IP 是其区别于普通低价机场的关键亮点。若用户�
 ### 3. 秋林云
 
 **官网入口**：[秋林云 官网](https://www.qiulinyun.online/register?code=P9a5mp97)  
-**备用地址**：[秋林云 备用地址](https://www.qiulinyun.online/register?code=m8UfbWGi)  
+**备用地址**：[秋林云 备用地址](https://www.why80.com/xingjiabijichang/20260723828.html)  
 
 
 | 项目 | 信息 |
